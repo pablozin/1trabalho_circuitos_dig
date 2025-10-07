@@ -2,3 +2,4 @@
 
 Componentes:\
 Pablo Rubens de Moura
+José Augusto de Souza Costa
